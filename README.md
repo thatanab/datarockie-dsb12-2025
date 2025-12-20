@@ -1,4 +1,4 @@
-# Weclome to My Bootcamp Projects
+# Welcome to My Bootcamp Projects
 
 ## Technologies that I use
 
