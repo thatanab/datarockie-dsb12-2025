@@ -9,10 +9,6 @@
 * Python - Pizza Restaurant Chatbot & Rock-Paper-Scissors Game
 * Essential Statistics - Logistic Regression (Finding probability of getting divorce) in Excel
 
-## My Websites
-
-* Coda:
-
 ## Contact Me
 
 Email: thatana.b@gmail.com
