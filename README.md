@@ -4,10 +4,10 @@
 
 * Spreadsheets Functions - Google Sheets
 * SQL
-* R - Basics: Pizza Restaurant Chatbot & Rock-Paper-Scissors Game
+* R - Pizza Restaurant Chatbot & Rock-Paper-Scissors Game
 * Data Visualization - R and Spreadsheet (Excel)
-* Python - Basics: game of rock-paper-scissors
-* Essential Statistics - Logistic Regression (Finding probability of getting divorce)
+* Python - Pizza Restaurant Chatbot & Rock-Paper-Scissors Game
+* Essential Statistics - Logistic Regression (Finding probability of getting divorce) in Excel
 
 ## My Websites
 
