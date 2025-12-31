@@ -2,7 +2,7 @@
 
 ## Technologies that I use
 
-* Spreadsheets Functions - Google Sheets
+* Google Sheets - Spreadsheets Functions & Data Cleansing Project
 * SQL
 * R - Pizza Restaurant Chatbot & Rock-Paper-Scissors Game
 * Data Visualization - R and Spreadsheet (Excel)
