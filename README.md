@@ -2,13 +2,12 @@
 
 ## Technologies that I use
 
-* Google Sheets
+* Spreadsheets Functions - Google Sheets
 * SQL
-* R
-* Python
-* Essential Statistics
-* Essential Machine Learning
-* Learning How to Learn
+* R - Basics: Pizza Restaurant Chatbot & Rock-Paper-Scissors Game
+* Data Visualization - R and Spreadsheet (Excel)
+* Python - Basics: game of rock-paper-scissors
+* Essential Statistics - Logistic Regression (Finding probability of getting divorce)
 
 ## My Websites
 
